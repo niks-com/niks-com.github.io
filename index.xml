@@ -1,126 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Niks Website</title>
+    <title>Categories on NIKS Website</title>
     <link>https://niks-com.github.io/</link>
-    <description>Recent content on Niks Website</description>
+    <description>Recent content on NIKS Website</description>
     <generator></generator>
     <language>ru-ua</language>
     <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://niks-com.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>autogas</title>
-      <link>https://niks-com.github.io/categories/autogas/</link>
+      <title>crypto</title>
+      <link>https://niks-com.github.io/categories/crypto/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://niks-com.github.io/categories/autogas/</guid>
+      <guid>https://niks-com.github.io/categories/crypto/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>belt</title>
-      <link>https://niks-com.github.io/categories/belt/</link>
+      <title>safety</title>
+      <link>https://niks-com.github.io/categories/safety/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://niks-com.github.io/categories/belt/</guid>
+      <guid>https://niks-com.github.io/categories/safety/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>brake</title>
-      <link>https://niks-com.github.io/categories/brake/</link>
+      <title>trust</title>
+      <link>https://niks-com.github.io/categories/trust/</link>
       <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://niks-com.github.io/categories/brake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>clutch</title>
-      <link>https://niks-com.github.io/categories/clutch/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://niks-com.github.io/categories/clutch/</guid>
-      <description></description>
-    </item>
-     
-    <item>
-      <title>diagnostic</title>
-      <link>https://niks-com.github.io/categories/diagnostic/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://niks-com.github.io/categories/diagnostic/</guid>
-      <description></description>
-    </item>    
-	
-    <item>
-      <title>electronics</title>
-      <link>https://niks-com.github.io/categories/electronics/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://niks-com.github.io/categories/electronics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>engine</title>
-      <link>https://niks-com.github.io/categories/engine/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://niks-com.github.io/categories/engine/</guid>
-      <description></description>
-    </item>
-	
-    <item>
-      <title>generator</title>
-      <link>https://niks-com.github.io/categories/generator/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://niks-com.github.io/categories/generator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>maintenance</title>
-      <link>https://niks-com.github.io/categories/maintenance/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://niks-com.github.io/categories/maintenance/</guid>
-      <description></description>
-    </item>
-	
-    <item>
-      <title>power-steering</title>
-      <link>https://niks-com.github.io/categories/power-steering/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://niks-com.github.io/categories/power-steering/</guid>
-      <description></description>
-    </item>
-	
-    <item>
-      <title>starter</title>
-      <link>https://niks-com.github.io/categories/starter/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://niks-com.github.io/categories/starter/</guid>
-      <description></description>
-    </item>
-	
-    <item>
-      <title>suspension</title>
-      <link>https://niks-com.github.io/categories/suspension/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://niks-com.github.io/categories/suspension/</guid>
-      <description></description>
-    </item>
-	
-    <item>
-      <title>image-gallery</title>
-      <link>https://niks-com.github.io/image-gallery</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://niks-com.github.io/image-gallery</guid>
+      <guid>https://niks-com.github.io/categories/trust/</guid>
       <description></description>
     </item>
   </channel>
